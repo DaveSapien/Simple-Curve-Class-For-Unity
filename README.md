@@ -1,7 +1,7 @@
 <h1>Simple-Curve-Class-For-Unity</h1>
 
 <p>A super simple curve class with its own inspector window.<br>
-Idea being you can feed in a percentage value and get a curve value at that percentage point.<br>
+Idea being you feed in a percentage value and get a curve value at that percentage point.<br>
 A use case would be, instead of moving toward an object at a consistent speed, you can manually edit its speed based on its distance(percentage) to its target.<br>
 OR<br>
 Change the difficulty of a game based on what level the player is on. Instead of a linear difficulty (0f to 1f), you can manually edit the difficulty with a curve. 
@@ -10,11 +10,11 @@ Change the difficulty of a game based on what level the player is on. Instead of
 ![screenshot](https://raw.githubusercontent.com/DaveSapien/Simple-Curve-Class-For-Unity/master/Screen-Shot.jpg)
 <p>
 
-Setup: 
+Setup: <br>
 Place the scripts into you project, make sure CurveManagerEditor.cs is in your "Editor" folder(or just use the one here).<p>
 //---------------------------------------------------------------------------------------------<p>
 //---------------------------------------------------------------------------------------------<p>
-To use:
+To use:<br>
 You will need two scripts to use this, the CurveManager.cs script and your own script that calls CurveManager. An example script (CurveManagerExample.cs) is provided.</p>
 
 <p>1). Drag CurveManager.cs into your object and name it in the "name" field. You will need this later in your own script.</p>
