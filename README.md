@@ -1,6 +1,6 @@
 <h1>Simple-Curve-Class-For-Unity</h1>
 
-<p>A super simple curve class with its own inspector window.
+<p>A super simple curve class with its own inspector window.<br>
 Idea being you can feed in a percentage value and get a curve value at that percentage point.<br>
 A use case would be, instead of moving toward an object at a consistent speed, you can manually edit its speed based on its distance(percentage) to its target.<br>
 OR<br>
