@@ -7,7 +7,7 @@ OR<br>
 Change the difficulty of a game based on what level the player is on. Instead of a linear difficulty (0f to 1f), you can manually edit the difficulty with a curve. 
 
 </p>
-![screenshot](https://raw.githubusercontent.com/DaveSapien/Simple-Bounce-class-for-Unity-GameObjects/master/Screen-Shot.jpg)
+![screenshot](https://raw.githubusercontent.com/DaveSapien/Simple-Curve-Class-For-Unity/master/Screen-Shot.jpg)
 <p>
 
 Setup: 
